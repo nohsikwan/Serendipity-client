@@ -39,77 +39,33 @@ $ npm(yarn) expo start || npm(yarn) expo start -c (delete cache)
 
 ### 서비스 시연 GIF 모음
 
-- Intro
+- Intro  /  - Signup1  / - Signup2  /  - Signup3
 
 <div>
 <img width="150" src="./assets/readme/final1.gif" />
-</div>
-
-- Signup1
-
-<div>
 <img width="150" src="./assets/readme/final2.gif" />
-</div>
-
-- Signup2
-
-<div>
+<img width="150" src="./assets/readme/final3.gif" />
 <img width="150" src="./assets/readme/final3.gif" />
 </div>
 
-- Signup3
-
-<div>
-<img width="150" src="./assets/readme/4.gif" />
-</div>
-
-- Signup4
+- Signup4  /  - Signup5  /  - Login  /  - Card Pick
 
 <div>
 <img width="150" src="./assets/readme/5.gif" />
-</div>
-
-- Signup5
-
-<div>
 <img width="150" src="./assets/readme/6.gif" />
-</div>
-
-- Login
-
-<div>
 <img width="150" src="./assets/readme/ezgif.com-video-to-gif.gif" />
-</div>
-
-- Card Pick
-
-<div>
 <img width="150" src="./assets/readme/ezgif.com-video-to-gif_(2).gif" />
 </div>
 
-- Chat!
+- Chat!  /  - 112  /  - My Profile & Edit  /  - Logout& withdrawal
 
 <div>
 <img width="150" src="./assets/readme/Final10.gif" />
-</div>
-
-- 112
-
-<div>
 <img width="150" src="./assets/readme/Final11.gif" />
-</div>
-
-- My Profile & Edit
-
-<div>
 <img width="150" src="./assets/readme/ezgif.com-video-to-gif_(1).gif" />
-</div>
-
-- Logout& withdrawal
-
-<div>
 <img width="150" src="./assets/readme/13.gif" />
 </div>
+
 
 ### STACK ARCHITECTURE
 
@@ -131,7 +87,7 @@ $ npm(yarn) expo start || npm(yarn) expo start -c (delete cache)
 ---
 
 <div>
-<img src="./assets/readme/sangwook.png" />
+<img width="200" src="./assets/readme/sangwook.png" />
 </div>
 
 - Role : Team Leader
@@ -150,7 +106,7 @@ $ npm(yarn) expo start || npm(yarn) expo start -c (delete cache)
 ---
 
 <div>
-<img src="./assets/readme/sang.png" />
+<img width="200" src="./assets/readme/sang.png" />
 </div>
 
 - Role : Team Member
@@ -191,7 +147,7 @@ $ npm(yarn) expo start || npm(yarn) expo start -c (delete cache)
 ---
 
 <div>
-<img src="./assets/readme/kwan.png" />
+<img width="200" src="./assets/readme/kwan.png" />
 </div>
 
 - Role : Team Member
@@ -217,7 +173,7 @@ $ npm(yarn) expo start || npm(yarn) expo start -c (delete cache)
 ---
 
 <div>
-<img src="./assets/readme/um.png" />
+<img width="200" src="./assets/readme/um.png" />
 </div>
 
 - Role : Team Member
@@ -235,7 +191,7 @@ $ npm(yarn) expo start || npm(yarn) expo start -c (delete cache)
 ---
 
 <div>
-<img src="./assets/readme/hyobi.png" />
+<img width="200" src="./assets/readme/hyobi.png" />
 </div>
 
 - Role : Team Member
